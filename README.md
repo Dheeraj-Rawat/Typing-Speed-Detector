@@ -17,3 +17,5 @@ This is a simple Python program designed to test and measure typing speed and ac
 ## Requirements
 
 - Python 3.x
+## Example Output
+![Capture](https://github.com/Dheeraj-Rawat/Typing-Speed-Detector/assets/141765900/99cf448c-1a30-459d-afc6-3dedefdb48e3)
